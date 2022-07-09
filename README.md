@@ -25,8 +25,9 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
     
-        
+ ----
     
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vaykmuniz&layout=compact&theme=vision-friendly-dark)    
         
         
         
