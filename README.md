@@ -31,7 +31,7 @@
             
  ---
     
- ### Hi! My name is **Gabriel Muniz**, but you can call me `vayk`. 🥸
+ ### Hi! My name is **Gabriel Muniz**, but here you can call me `vayk`. 🥸
  I'm a **Developer** and on my **Automation Engineer's** final semestre at **UTFPR - Federal University of Technology – Paraná**.
  
         
